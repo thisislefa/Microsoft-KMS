@@ -1,0 +1,7 @@
+Run Command Prompt as an administrator
+type "slmgr /ipk <insert_kms_product_key_here>"
+Run a command line "slmgr /skms kms9.MSGuides.com"
+Run a command line "slmgr /ato"
+Exit the CMD
+Run a troubleshoot on windows activation on "Settings"
+
